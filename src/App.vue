@@ -17,7 +17,7 @@
         </div>
         <div class="footer">
             Made with by 
-            <a href="">Sun Kuo</a>
+            <a href="" class="author">Sun Kuo</a>
             on GitHub
         </div>
     </div>

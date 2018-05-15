@@ -1,5 +1,6 @@
 body {
-    color: #424242;
+    background-color: #e1eef6;
+    color: #004e66;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #D12026;
+    color: #ff5f2e;
 }
 
 .header {
@@ -58,4 +59,8 @@ a {
     position: absolute;
     bottom: 10px;
     margin: 0px 0px 0px 10px;
+}
+
+.author {
+    color: #fcbe32;
 }
