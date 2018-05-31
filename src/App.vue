@@ -24,11 +24,12 @@
 </template>
 
 
+
 <style src="./css/reset.css"></style>
 <style src="./css/style.css"></style>
 <script src="./js/index.js" type="text/javascript"></script>
 <script>
-
+    //import $ from 'jquery'
     export default {
         name:'app',
         data() {
